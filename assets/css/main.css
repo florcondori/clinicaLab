@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  /*font-family: Verdana, Georgia, Serif;*/
+}
+#formulario{
+	display: inline-block;
+	text-align: left;
+}
+.etiqueta{
+	display: inline-block;
+	width: 80px;
+}
+.span-mensaje{
+	color: red;
+	font-size: small;
+	display: inline-block;
+	
+}
+#imprimir{
+	margin-left: 50px;
+}
+.div-ficha{
+  display: inline-block;
+  text-align: left;
+  color: grey;
+  margin: 20px 15px 0 15px;
+  padding: 5px;
+  border: 1px solid grey;
+}
+p{
+	margin: 2px 0 2px 0;
+}
+
