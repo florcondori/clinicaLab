@@ -13,8 +13,6 @@ body{
 .span-mensaje{
 	color: red;
 	font-size: small;
-	display: inline-block;
-	
 }
 #imprimir{
 	margin-left: 50px;
@@ -23,6 +21,7 @@ body{
   display: inline-block;
   text-align: left;
   color: grey;
+  width: 300px;
   margin: 20px 15px 0 15px;
   padding: 5px;
   border: 1px solid grey;

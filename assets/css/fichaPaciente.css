@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+}
+.bienvenida-paciente{
+	display: inline-block;
+	padding: 20px 20px 20px 20px;
+	width: 320px;
+	text-align: left;
+	border:1px solid grey;
+}
+p{
+	font-weight: bold;
+	font-size: 20px;
+}
+.span-input{
+	font-weight: normal;
+	font-size: 15px;
+}
+a{
+	font-size: 12px;
+	text-align: left;
+}
+button{
+	margin-top:20px;
+}
+.ocultar{
+	display: none;
+}
